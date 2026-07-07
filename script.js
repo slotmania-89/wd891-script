@@ -1187,8 +1187,8 @@ function createApkBox() {
 
         <div class="search-wrap">
           <div class="search-note">Cari situs kami di CARILINK.NET</div>
-          <a class="search-btn" href="https://carilink.net" target="_blank">
-            CARILINK.NET
+          <a class="search-btn" href="https://urlwin.link/carilink" target="_blank">
+            CARILINK.LINK
           </a>
         </div>
       </div>
